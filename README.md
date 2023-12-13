@@ -2,9 +2,7 @@ Overview
 
 
 Welcome to the second contest of AImprove! In this competition, participants will tackle the task of cleaning and preprocessing a given dataset to build an accurate regression model. The dataset contains various 
-
 features, some of which may have missing values, outliers, or inconsistencies that need to be addressed before building the model. Participants are expected to employ effective data preprocessing techniques to 
-
 clean, transform, and prepare the data for regression analysis.
 
 
@@ -19,7 +17,6 @@ Evaluation
 
 
 The performance of the models will be assessed using the mean square error (MSE) on a held-out validation set. Participants should aim to minimize the MSE to improve the predictive quality of their regression 
-
 models.
 
 
